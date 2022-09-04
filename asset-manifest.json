@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Pokeplace-dapp/static/css/main.a174681c.chunk.css",
+    "main.js": "/Pokeplace-dapp/static/js/main.972d597e.chunk.js",
+    "main.js.map": "/Pokeplace-dapp/static/js/main.972d597e.chunk.js.map",
+    "runtime-main.js": "/Pokeplace-dapp/static/js/runtime-main.f831b4fa.js",
+    "runtime-main.js.map": "/Pokeplace-dapp/static/js/runtime-main.f831b4fa.js.map",
+    "static/css/2.0a51f608.chunk.css": "/Pokeplace-dapp/static/css/2.0a51f608.chunk.css",
+    "static/js/2.560f4dde.chunk.js": "/Pokeplace-dapp/static/js/2.560f4dde.chunk.js",
+    "static/js/2.560f4dde.chunk.js.map": "/Pokeplace-dapp/static/js/2.560f4dde.chunk.js.map",
+    "static/js/3.85ea2458.chunk.js": "/Pokeplace-dapp/static/js/3.85ea2458.chunk.js",
+    "static/js/3.85ea2458.chunk.js.map": "/Pokeplace-dapp/static/js/3.85ea2458.chunk.js.map",
+    "index.html": "/Pokeplace-dapp/index.html",
+    "static/css/2.0a51f608.chunk.css.map": "/Pokeplace-dapp/static/css/2.0a51f608.chunk.css.map",
+    "static/css/main.a174681c.chunk.css.map": "/Pokeplace-dapp/static/css/main.a174681c.chunk.css.map",
+    "static/js/2.560f4dde.chunk.js.LICENSE.txt": "/Pokeplace-dapp/static/js/2.560f4dde.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/Pokeplace-dapp/static/media/bootstrap-icons.ea6f3dfe.woff",
+    "static/media/pokeplace.74427232.jpg": "/Pokeplace-dapp/static/media/pokeplace.74427232.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f831b4fa.js",
+    "static/css/2.0a51f608.chunk.css",
+    "static/js/2.560f4dde.chunk.js",
+    "static/css/main.a174681c.chunk.css",
+    "static/js/main.972d597e.chunk.js"
+  ]
+}
