@@ -18,7 +18,7 @@ export class Card {
         card.description = payload.description;
         card.image = payload.image;
         card.price = payload.price;
-        card.sold = payload.sold;
+        card.sold = false;
         return card;
     }
     public buy(): void {
@@ -39,3 +39,5 @@ export class Card {
 
 
 export const cardsStorage = new PersistentUnorderedMap<string, Card>("LISTED_CARDS");
+
+export const ownedCardsStorage = new PersistentUnorderedMap<string, string[]>("OWNED_CARDS");
